@@ -5,4 +5,4 @@
 - Paulo Junio Sales Rodrigues
 - Augusto Borges de Moura
 - Fernando Henrique Coimbra
-- João Paulo Cabral
+- João Paulo Oliveira Cabral
