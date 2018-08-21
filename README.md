@@ -1,4 +1,7 @@
-# Rapid Application Development
+# Trabalho em grupo da disciplina Métodos e Ferramentas da Engenharia de Software
+
+## Tema
+- RAD (Rapid Application Developmet)
 
 ## Integrantes 
 
