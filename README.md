@@ -1,4 +1,4 @@
-# Trabalho em grupo da disciplina Métodos e Ferramentas da Engenharia de Software
+# Rapid Application Development
 
 ## Integrantes 
 
