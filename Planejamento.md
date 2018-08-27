@@ -1,4 +1,4 @@
-Planejamento de execução do trabalho:
+# Planejamento de execução do trabalho:
 
 O trabalho será feito conforme a disponibilidade de cada um, o qual será acrescentado no documento, após ler as pesquisas
 e o que foi escrito anteriormente, cada um contribuindo conforme pesquisou também. Os slides serão criados após o término 
