@@ -7,7 +7,7 @@
 - Fernando Henrique Coimbra
 - João Paulo Oliveira Cabral
 
-##Planejamento:
+## Planejamento:
 
   O trabalho será feito conforme a disponibilidade de cada um, o qual será acrescentado no documento, após ler as pesquisas e o que foi escrito anteriormente, cada um contribuindo conforme pesquisou também. Os slides serão criados após o término do documento de texto ou concorrentemente via documento Power Point ou similar de software livre, neste repositório, onde todos poderão atualizar os slides e contribuir com novos slides, até que seja completado todo o trabalho sobre RAD. 
   
@@ -27,7 +27,7 @@
 
 
 
-##Introdução:
+## Introdução:
 
   Rapid Application Development, ou desenvolvimento de aplicação rápido, é um modelo de processo de software iterativo e incremental que enfatiza um ciclo de desenvolvimento extremamente curto (entre 60 e 90 dias). É considerada uma metodologia ágil de desenvolvimento de software. Foi criado em 1991, por James Martin, como necessidade devido ao modelo cascata estar antiquado e já não oferecer a eficiência necessária.
 
@@ -37,7 +37,7 @@
   
   
   
-##Fase 1: Planejamento dos requisitos
+## Fase 1: Planejamento dos requisitos
 
   Cada parte de um software é construída por determinada razão, e o RAD começa tentando descobrir os requisitos, como qualquer outro projeto de software. A coleta dos requisitos e sua análise são de vital importância em qualquer projeto de software, e devem ser feitas cuidadosamente, pois sabe-se que um pequeno erro nos requisitos pode causar grandes problemas na frente. Deve-se descobrir o que o sistema está buscando realizar.
   
@@ -47,7 +47,7 @@
 
 
 
-##Bibliografia e fontes:
+## Bibliografia e fontes:
 
 https://pt.wikipedia.org/wiki/Desenvolvimento_r%C3%A1pido_de_aplica%C3%A7%C3%B5es
 https://blog.capterra.com/what-is-rapid-application-development/
