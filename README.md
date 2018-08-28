@@ -23,6 +23,8 @@
   
   De qualquer forma, não haverá nenhum problema, pois usando o GIT temos rastreabilidade dos commits e da informação referente ao texto que estava antes, portanto nada será perdido. Qualquer insatisfação, podemos recuperar o texto antigo e adicioná-lo novamente. Portanto o sugerido é que se faça como o RAD, que editemos o texto com eficiência e bom senso, porém sempre tentando evitar excluir informações sem antes consultar os membros do grupo, quando necessário, e avisando o grupo ao editar. 
   
+  Lembrando a todos de que até mesmo este planejamento pode vir a ser editado posteriormente, conforme a necessidade, se algum membro do grupo desejar modificar ou discordar de qualquer ponto no planejamento. Tudo é livremente discutido e acordado, e todos têm o direito de sugerir e fazer modificações, seja no texto ou no próprio planejamento de como será feito o trabalho.
+  
   O ideal é que todos contribuam igualmente, porém sabemos que isso nunca é possível em qualquer trabalho em grupo. Mas cabe a cada um utilizar do bom senso, e buscar fazer sua parte, de forma que possamos todos obter um bom trabalho e uma boa nota. Bom trabalho a todos!
 
 
