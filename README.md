@@ -100,5 +100,9 @@
 ## Bibliografia e fontes:
 
 https://pt.wikipedia.org/wiki/Desenvolvimento_r%C3%A1pido_de_aplica%C3%A7%C3%B5es
+
 https://blog.capterra.com/what-is-rapid-application-development/
+
 https://www.lucidchart.com/blog/rapid-application-development-methodology
+
+
