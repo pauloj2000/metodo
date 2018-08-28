@@ -53,9 +53,21 @@
   
   Após descobrir os requisitos do sistema, deve-se então fazer um certo planejamento e estimativa de tempo para o projeto. A partir de uma estimativa de tempo para o cumprimento de cada requisito, pode-se criar uma espécie de linha do tempo, com as fases do projeto, alocação de trabalho e de tempo das pessoas interessadas no projeto. É realizada nesta fase também a estimativa de recursos financeiros e a aprovação final do projeto, que irá seguir em frente caso a estimativa financeira seja adequada, levando em conta os recursos financeiros e recursos humanos da empresa.
 
-## Fase 2: Design e prototipação
+## Fase 2: Design da interface de usuário e prototipação
 
-  Nesta fase é realizada...
+  Após a definição do escopo do projeto e dos requisitos, é hora de começar o desenvolvimento, começando pela construção da interface de usuário, através de vários protótipos.
+  
+  Este é o básico da metodologia RAD, o diferencial da metodologia de certa forma, aquilo que a faz única e diferente das outras. Este começo, o começo através do desenvolvimento da interface de usuário, através de protótipos que são entregues ao cliente, e avaliados pelo mesmo, que então envia um feedback para os desenvolvedores, e estes então melhoram o protótipo de acordo com o feedback. Esta é a essência do RAD. 
+  
+  Nesta fase o cliente de certa forma também trabalha dura junto à equipe de desenvolvimento, disponibilizando seu tempo para testar e avaliar os protótipos feitos pela equipe de desenvolvimento e verificando se os seus propósitos e necessidades desejadas estão sendo atendidas, de maneira correta e o mais eficiente possível, da forma que o cliente queria.
+  
+  É um desenvolvimento de software customizável, onde os usuários testam cada protótipo do produto, a cada estágio de desenvolvimento, para garantir que está indo de acordo com suas expectativas. E assim a equipe vai melhorando e atualizando este protótipo de acordo com o que o cliente identifica que poderia melhorar ou que não está de acordo com o que ele queria, com suas necessidades.
+  
+  Todos os bugs e problemas são resolvidos num processo iterativo. Os desenvolvedores fazem o design de um protótipo, o próprio cliente testa este protótipo, e há então a comunicação do que funcionou e do que não funcionou, insatisfações ou sugestões de melhorias.
+  
+  Este método é bem interessante, pois ele permite que os desenvolvedores tenham essa oportunidade de atualizar e modificar, modelar o software, até que eles cheguem num design satisfatório, que o cliente deseja e gosta. É um aprendizado e experiência, tanto para a equipe de desenvolvimento quanto para o cliente, de tentar garantir que o design chegue num modelo ótimo e satisfatório, de forma que depois no futuro, após a adição gradual das funcionalidades, seja evitada qualquer falta de funcionalidade ou possível insatisfação em relação aos objetivos e interface gráfica do software. O objetivo é chegar no melhor produto final possível!
+  
+  Desta forma aos poucos a equipe de desenvolvimento pode também ir adicionando as funcionalidades aos protótipos, que inicialmente são apenas a interface de usuário. Dividindo em módulos de acordo com a funcionalidade, adicionando módulo por módulo, de uma forma que possam ser testadas partes separadas, facilitando assim o desenvolvimento, testes e posteriormente a integração, que é feita gradualmente conforme são adicionadas as funcionalidades.
   
 ## Fase 3: Construção
 
