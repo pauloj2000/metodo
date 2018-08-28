@@ -41,7 +41,13 @@
   
 ## Fase 1: Planejamento dos requisitos
 
-  Cada parte de um software é construída por determinada razão, e o RAD começa tentando descobrir os requisitos, como qualquer outro projeto de software. A coleta dos requisitos e sua análise são de vital importância em qualquer projeto de software, e devem ser feitas cuidadosamente, pois sabe-se que um pequeno erro nos requisitos pode causar grandes problemas na frente. Deve-se descobrir o que o sistema está buscando realizar.
+  Cada parte de um software é construída por determinada razão, e o RAD começa tentando descobrir os requisitos, como qualquer outro projeto de software. A coleta dos requisitos e sua análise são de vital importância em qualquer projeto de software, e devem ser feitas cuidadosamente, pois sabe-se que um pequeno erro nos requisitos pode causar grandes problemas na frente. Deve-se descobrir o que o sistema está buscando realizar. É um ponto crítico no projeto.
+  
+  É recomendado que se faça pesquisas sobre o referente projeto, referentes por exemplo ao seu escopo, suas terminologias, por exemplo, ao se fazer um aplicativo sobre apostas esportivas, é necessário que todos na equipe possuam um mínimo de conhecimento sobre o mercado de apostas esportivas, sobre o futebol, e sobre o assunto da área, pelo menos dar uma pesquisada rápida e entender as terminologias básicas e seus significados.
+  
+  Deve-se avaliar as metas e expectativas do projeto, tanto em relação ao gerente, à equipe, e também ao cliente e os usuários. O que cada um espera do projeto? Quais os objetivos e como alcançá-los? 
+  
+  Deve-se obter a aprovação do stakeholder em relação aos requisitos, escopo e custo do projeto, e formas de pagamento, de forma que ambas as partes, cliente e empresa, além dos funcionários, fiquem satisfeitos e interessados em completar o projeto.
   
   Combinando elementos de planejamento de sistema, e fases de análise de sistema do 'System Development Life Cycle' (SDLC), usuários, gerentes, e a equipe de TI reúne, discutindo e definindo as regras de negócio, as necessidades do negócio, o escopo do projeto, constantes, e os requisitos do sistema. Quando há um consenso nos pontos chaves e aprovação do gerente de projeto para continuar o projeto, segue-se em frente.
   
