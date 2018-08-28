@@ -47,7 +47,37 @@
   
   Após descobrir os requisitos do sistema, deve-se então fazer um certo planejamento e estimativa de tempo para o projeto. A partir de uma estimativa de tempo para o cumprimento de cada requisito, pode-se criar uma espécie de linha do tempo, com as fases do projeto, alocação de trabalho e de tempo das pessoas interessadas no projeto. É realizada nesta fase também a estimativa de recursos financeiros e a aprovação final do projeto, que irá seguir em frente caso a estimativa financeira seja adequada, levando em conta os recursos financeiros e recursos humanos da empresa.
 
+## Fase 2: Design e prototipação
 
+  Nesta fase é realizada...
+  
+## Fase 3: Construção
+
+  Nesta fase é realizada...
+  
+## Fase 4: Testes e entregas
+
+  Nesta fase é realizada...
+  
+## Vantagens do RAD
+
+  As vantagens do RAD...
+  
+## Desvantagens do RAD
+
+  As desvantagens do RAD...
+  
+## Quando é recomendado o uso do RAD
+
+  O Rad é recomendado...
+  
+## Ferramentas auxiliares ao RAD
+
+  As ferramentas do RAD são...
+  
+## Alternativas ao RAD
+
+  As alternativas ao uso do RAD são...
 
 ## Bibliografia e fontes:
 
