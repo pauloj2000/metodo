@@ -31,11 +31,19 @@
 
 ## Introdução:
 
-  Rapid Application Development, ou desenvolvimento de aplicação rápido, é um modelo de processo de software iterativo e incremental que enfatiza um ciclo de desenvolvimento extremamente curto (entre 60 e 90 dias). É considerada uma metodologia ágil de desenvolvimento de software. Foi criado em 1991, por James Martin, como necessidade devido ao modelo cascata estar antiquado e já não oferecer a eficiência necessária.
+  No mundo atual de gerenciamento de projetos, ágil é a palavra do momento. Por muito tempo os times de gerenciamento de projeto usaram abordagens tradicionais, com um planejamento rigoroso, cheio de processos rigorosos e muita documentação. O gerenciamento ágil visa modificar esta abordagem, e focar menos em documentação ou processos rigorosos e mais no resultado, vindo com uma abordagem completamente nova. Esta nova abordagem veio então a ficar muito popular e obteve um grande sucesso no mundo empresarial.
+  
+  De acordo com um estudo da PwC, projetos ágeis tem uma taxa de sucesso 28% maior do que projetos tradicionais. Isto se deve ao fato de os mesmos terem esse foco na entrega do produto, não ficando tão preso a documentação e outras atividades que não entregam resultado e causam um maior uso de recursos, e, claro, o usuário não têm acesso nem quer nenhuma documentação. O que o usuário deseja é software pronto, e pra ele documentação não agrega nenhum valor.
+
+  Rapid Application Development, ou desenvolvimento de aplicação rápido, é um modelo de processo de software iterativo e incremental que enfatiza um ciclo de desenvolvimento extremamente curto (De acordo com algumas fontes, visa-se geralmente um prazo entre 60 e 90 dias). É considerada uma metodologia ágil de desenvolvimento de software. Foi criado em 1991, por James Martin, como necessidade devido ao modelo cascata estar antiquado e já não oferecer a eficiência necessária.
+  
+  É uma estratégia cujo benefício chave é uma facilidade maior em modificar totalmente a estrutura do projeto, sendo um atrativo para desenvolvedores que estão num ambiente de mudanças rápidas, desta forma podendo fazer o software se adapatar à essas mudanças com muito mais facilidade, utilizando o RAD. Por esta razão o foco do RAD é minimizar a fase de planejamento e focar ao máximo no desenvolvimento de protótipos.
 
   Diferentemente dos métodos waterfall, RAD coloca ênfase em obter software já em funcionamento quanto antes melhor, e em obter feedback do usuário sobre este software, muitas vezes ainda imcompleto em todas suas funcionalidades, mas já com alguns módulos em funcionamento, de forma ao usuário poder já dar um feedback sobre, o que irá auxiliar muito a obter, no desenvolvimento, o que o usuário realmente quer.
   
   Desta forma o RAD é menos conversa, e mais ação. E muitos testes. Teste é uma parte extremamente importante na metodologia RAD. O planejamento extremamente rigoroso não é algo desejável no RAD, mas ainda assim a metodologia possui um passo-a-passo e fases para os projetos de desenvolvimento de software.
+  
+  É possível dividir o processo de diversas formas, mas em geral, o RAD segue 4 fases principais.
   
   
   
