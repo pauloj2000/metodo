@@ -87,15 +87,47 @@
   
 ## Vantagens do RAD
 
-  As vantagens do RAD...
+- Permite o desenvolvimento rápido e/ou a prototipagem de aplicações;
+- Enfatiza um ciclo de desenvolvimento extremamente curto (entre 60 e 90 dias);
+- Cada função principal pode ser direcionada para a uma equipe RAD separada e então integrada a formar um todo;
+- Criação e reutilização de componentes;
+- Usado principalmente para aplicações de sistemas de informações;
+- Comprar pode economizar recursos se comparado a desenvolver;
+- Desenvolvimento é conduzido em um nível mais alto de abstração;
+- Visibilidade mais cedo (protótipos);
+- Maior flexibilidade (desenvolvedores podem reprojetar praticamente a vontade);
+- Grande redução de codificação manual (wizards…);
+- Envolvimento maior do usuário;
+- Provável custo reduzido(tempo é dinheiro e também devido ao reúso);
+- Aparência padronizada (As APIs e outros componentes reutilizáveis permitem uma aparência consistente).
   
 ## Desvantagens do RAD
 
-  As desvantagens do RAD...
+- Se uma aplicação não puder ser modularizada de modo que cada função principal seja completada em menos de 3 meses, não é aconselhável o uso do RAD;
+- Para projetos grandes (mas escaláveis) o RAD exige recursos humanos suficientes para criar o número correto de equipes, isso implica um alto custo com a equipe;
+- O envolvimento com o usuário tem que ser ativo;
+- Comprometimento da equipe do projeto;
+- O RAD não é aconselhável quando os riscos técnicos são altos e não é indicada quando se está testando novas tecnologias ou quando o novo software exige alto grau de interoperabilidade com programas de computador existentes. Falta de prazo pode implicar qualidade reduzida, e há necessidade de habilidade maior dos desenvolvedores, e suporte maior da gerência e dos clientes.
+- Desenvolver pode economizar recursos se comparado a comprar;
+- Custo do conjunto de ferramentas e hardware para rodar a aplicação;
+- Mais difícil de acompanhar o projeto(pois não existe os marcos clássicos);
+- Perda de precisão científica (falta de métodos formais);
+- Pode acidentalmente levar ao retorno das práticas caóticas no desenvolvimento;
+- Funções reduzidas (reúso, "timeboxing");
+- Funções desnecessárias (reúso de componentes);
+- Requisitos podem não se encaixar (conflitos entre desenvolvedores e clientes)
+- Padronização (aparência diferente entre os módulos e componentes)
+- Sucessos anteriores são difíceis de se reproduzir
   
 ## Quando é recomendado o uso do RAD
 
-  O Rad é recomendado...
+- A aplicação é do tipo "stand alone";
+- Pode-se fazer uso de classes pré-existentes (APIs);
+- A performance não é o mais importante;
+- A distribuição do produto é pequena;
+- O âmbito do projeto é restrito;
+- O sistema pode ser dividido em vários módulos independentes;
+- A tecnologia necessária tem mais de um ano de existência.
   
 ## Ferramentas auxiliares ao RAD
 
