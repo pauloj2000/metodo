@@ -6,6 +6,7 @@
 - Augusto Borges de Moura
 - Fernando Henrique Coimbra
 - João Paulo Oliveira Cabral
+- Erik Raphael Ribeiro Da Costa
 
 ## Planejamento:
 
