@@ -80,11 +80,26 @@
   
 ## Fase 3: Construção
 
-  Nesta fase é realizada...
+  Nesta fase pega-se o que foi feito nas fases anteriores, os protótipos e o sistema já com a interface de usuário funcional e feita na fase anterior de acordo com a necessidade do usuário, e faz a construção do software em si, principalmente o back-end, codificando e deixando as partes do software prontas e funcionando adequadamente.  
+  
+  É feita uma preparação para a construção ser feita de forma rápida, e eficiente. Os módulos e classes devem já estar planejados e bem separados para facilitar a codificação. É feito também a integração entre o que foi construído como software, deixando o sistema integrado e funcionando corretamente.  
+  
+  Basicamente é uma fase integrada com a fase anterior, pois pode ser que ainda ocorram alterações na interface de usuário e outras alterações que interfiram na construção do back-end e também do código do sistema como um todo.  
+  
+  Desta forma pode ser que se volte de certa forma à fase anterior em alguns momentos, e também que parte desta fase seja feita na fase anterior. E nesta fase o cliente ainda continua a interagir com o sistema, testar o sistema conforme as partes são construídas e integradas e fornecer o feedback necessário para ficar do jeito que ele deseja e funcionando corretamente.
   
 ## Fase 4: Testes e entregas
 
-  Nesta fase é realizada...
+  Nesta fase também de certa forma integrada com as anteriores, já que as partes não são feitas separadamente como num método cascata, são feitos testes unitários, testes de integração, testes de interface de usuário e testes diversos. E claro são realizadas entregas já do produto funcinando com alguns módulos necessários, mesmo que o produto ainda esteja incompleto.
+  
+  É integrada com as fases anteriores pois o usuário continua a dar feedback sobre as entregas, que de certa forma podem ser sim bem parciais, somente com alguns módulos, interface de usuário ainda incompleta, código fonte ainda com alguns erros que serão identificados talvez pelo cliente ao utilizar o produto e reportados, então de certa forma todas as partes são uma só, está tudo integrado. O que é feito aqui é apenas uma extensão ou continuação das outras fases. 
+  
+  Podem surgir novos requisitos inclusive após a avaliação da necessidade destes pelo usuário, após testar alguma entrega do produto e se sentir insatisfeito somente com os requisitos acordados. Enfim, a interação do cliente é sempre forte durante todas as fases, desta forma fazendo o RAD ser focado nestas entregas, e os testes serem feitos durante toda a produção do software, não só os testes de sistema mas o teste do próprio usuário interagindo com o sistema e dizendo se está bom daquele jeito, se é o que ele queria mesmo.
+  
+  Assim após testes bem sucedidos, algumas entregas mais completas, aprovação do usuário destas entregas e aprimoramento do sistema ao máximo até satisfazer o cliente, temos mais um produto de software bem sucedido, criado através desta metodologia que é uma das mais utilizadas atualmente e das mais bem sucedidas, devido à grande interação do cliente com o time de desenvolvimento.
+  
+  A manutenção do produto será feita da mesma forma. O time pode encontrar um erro a ser corrigido ou qualquer alteração que necessita ser feita, ou o cliente fará uma requisição para um update adicionando uma nova funcionalidade ou corrigindo alguma funcionalidade que ele encontrou algum problema, o time pegará os requisitos para fazer determinada alteração, e fará todas as fases novamente, e então será feita uma nova entrega.
+ 
   
 ## Vantagens do RAD
 
