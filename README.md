@@ -151,7 +151,9 @@
   
 ## Alternativas ao RAD
 
-  As alternativas ao uso do RAD são...
+  Como alternativa ao uso do RAD temos o modelo cascata por exemplo, que é uma metodologia bem de fazer as coisas na ordem certinho,tudo bonitinho e lindo. É geralmente bacana num ambiente bem estruturado e corporações grande ou projetos grandes pode ter ele como escolha, e fazer o projeto devagarzinho. Porém, vale destacar que o RAD foi criado em resposta as inadequações do desenvolvimento cascata, de certa forma ultrapassado, lento, e com vários outros problemas já bem conhecidos de qualquer estudante do assunto.  
+  
+  Se o problema é que o RAD é muito caro, desenvolvimento lean poe ser a melhor aposta. Estas metodologias focam especificamente em reduzir o desperdício durante o projeto. Isto pode ser feio através do encorajamento do descarte das funcionalidades desnecessárias logo no início do projeto ou também através da priorização da autonomia do time, e ignorando ou de certa forma valorizando menos as necessidades do cliente.  
 
 ## Bibliografia e fontes:
 
