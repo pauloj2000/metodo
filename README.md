@@ -147,7 +147,20 @@
   
 ## Ferramentas auxiliares ao RAD
 
-  As ferramentas do RAD são...
+  As ferramentas do RAD buscam acabar com a digitação de código fonte. Busca-se economia e agilidade. Deve ter sempre uma competencia para fazer a arquitetura e personalizar a criação. Esta é a nova realidade dos códigos, e para garantir o lugar no mercado os arquitetos devem conhecer as opçes de framework ao máximo. Como opções temos:  
+  
+  Scriptcase  
+
+  "Scriptcase Gerador PHP é uma ferramenta poderosa para aumentar a produtividade do desenvolvimento web, economizando tempo e aumentando os lucros. Scriptcase Gerador PHP pode construir sistemas completos e criar relatórios personalizados de forma segura e rápida. É a melhor e mais eficiente ferramenta de desenvolvimento rápido web no mercado.
+Funcionando com diversos Bancos de dados, e com a possibilidade de se executar pela web."  
+
+  WaveMaker  
+
+  "Com interface visual drag-and-drop, essa ferramenta de RAD é uma IDE de desenvolvimento aberto que ajuda a construir aplicações RIA (Rich Internet Applications) – mesmo sem usar Java, HTML ou CSS – assegurados para nuvem. Ideal para quem não quer escrever código nenhum, ou apenas o mínimo necessário, o WaveMaker cria automaticamente o DataWindow e o código correspondente, queimando as etapas de criação de duas DataWindows e dos códigos  para seu compartilhamento, sincronização e atualização. Com IDE Web 2.0, roda em qualquer browser. Funciona em código aberto para Linux, Mac e Windows em uma comunidade mundial demais de 150 mil desenvolvedores. Ideal para aplicações comerciais de acesso a bases de dados com as funções de ler, criar, atualizar e eliminar."  
+
+Dataflex
+
+  "Extremamente intuitiva, a Dataflex é uma ferramenta baseada em linguagem de 4ª geração orientada a objetos (OOP) que acessam bancos de dados, criando aplicações poderosas para web e Windows. Ela centraliza todo o desenvolvimento em um só lugar através de sua arquitetura em três camadas que propicia o compartilhamento da mesma base de dados e regras de negócios. Todos os recursos e utilitários são flexíveis, podendo ser customizados, otimizando o trabalho dos desenvolvedores e criando soluções seguras e infinitas."  
   
 ## Alternativas ao RAD
 
