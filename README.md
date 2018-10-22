@@ -147,7 +147,10 @@
   
 ## Ferramentas auxiliares ao RAD
 
-  As ferramentas do RAD buscam acabar com a digitação de código fonte. Busca-se economia e agilidade. Deve ter sempre uma competencia para fazer a arquitetura e personalizar a criação. Esta é a nova realidade dos códigos, e para garantir o lugar no mercado os arquitetos devem conhecer as opçes de framework ao máximo. Como opções temos:  
+  As ferramentas do RAD buscam acabar com a digitação de código fonte. Busca-se economia e agilidade. Deve ter sempre uma competencia para fazer a arquitetura e personalizar a criação. Esta é a nova realidade dos códigos, e para garantir o lugar no mercado os arquitetos devem conhecer as opçes de framework ao máximo. Embora os frameworks não sejam grandes conhecidos nossos, iremos exibir algumas opções assim como seus comentários sobre o funcionamento, no entando ressaltando que tais comentários são de fontes externas e não correspondem ao conhecimento dos autores do artigo, que jamais tiveram a chance sequer de experimentar e utilizar a ferramenta.  
+  
+  O artigo completo pode ser visto na íntegra no link https://scriptcase.host/pt-br/blog/6-melhores-ferramentas-de-rad  
+  Como opções temos:  
   
   Scriptcase  
 
